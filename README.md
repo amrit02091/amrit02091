@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Amrit Singh
-- 👀 I’m interested in cooding , DSA 
-- 🌱 I’m currently learning web devlopment
+- 👋 Hi, I’m Amrit Singh an enthusiastic coder
+- 👀 I’m interested in coding, DSA, and Web development
+- 🌱 I’m currently learning web development
 - 💞️ I’m looking to collaborate on projects
-- 📫 How to reach me amrit02091
+- 📫 How to reach me amrit02091@gmail.com
 
 <!---
 amrit02091/amrit02091 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
